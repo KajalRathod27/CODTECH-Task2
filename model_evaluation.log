@@ -1,0 +1,4 @@
+2024-12-24 23:21:34,642 - INFO - Logistic Regression: Accuracy=0.9476923076923077, Precision=0.9476954066158751, Recall=0.9476923076923077, F1 Score=0.947693497844672
+2024-12-24 23:21:34,714 - INFO - Decision Tree: Accuracy=1.0, Precision=1.0, Recall=1.0, F1 Score=1.0
+2024-12-24 23:21:35,150 - INFO - Random Forest: Accuracy=1.0, Precision=1.0, Recall=1.0, F1 Score=1.0
+2024-12-24 23:21:35,217 - INFO - Best Model: Decision Tree with F1 Score: 1.00
